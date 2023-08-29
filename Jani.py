@@ -1,4 +1,4 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
+# Decompile by Jani (Toolsizo)
 # Time Succes decompile : 2023-08-29 10:39:12.924217
 W = '\033[97;1m'
 R = '\033[91;1m'
@@ -417,7 +417,7 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif MERA.JANI in ["1", "01"]:
-			os.system("xdg-open https://youtu.be/gxjhqkJL_h0")
+			os.system("xdg-open https://youtube.com/@MeraJani?si=EweAoDz6hdpEj2h0")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Apna nam type kro")
